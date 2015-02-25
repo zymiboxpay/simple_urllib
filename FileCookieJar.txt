@@ -1,0 +1,9 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+172.30.0.161	FALSE	/zentao/	FALSE	1427451679	keepLogin	on
+172.30.0.161	FALSE	/zentao/	FALSE	1427451679	lang	zh-cn
+172.30.0.161	FALSE	/zentao/	FALSE	1427451679	theme	default
+172.30.0.161	FALSE	/zentao/	FALSE	1427451679	za	hejinhui
+172.30.0.161	FALSE	/zentao/	FALSE	1427451679	zp	b09b1ae8ac4f7a24f6bdb6f6742bd861826e8615
